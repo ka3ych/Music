@@ -4,3 +4,5 @@ I created a responsive page of a school music using HTML and CSS
 - uso de FlexBox CSS
 
 <strong>demo:</strong> https://nirakmusic.netlify.app/ 
+
+<img src="assets/p1.png"/>
